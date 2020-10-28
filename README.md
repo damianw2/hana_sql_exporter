@@ -37,13 +37,13 @@ The file contains a Tenants slice followed by a Metrics Slice:
 [[Tenants]]
   Name = "q01"
   Tags = ["abap", "ewm"]
-  ConnString = "hanaq01.example.com:32041"
+  ConnStr = "hanaq01.example.com:32041"
   User = "dbuser1"
 
 [[Tenants]]
   Name = "q02"
   Tags = ["abap", "erp"]
-  ConnString = "hanaqj1.example.com:31044"
+  ConnStr = "hanaqj1.example.com:31044"
   User = "dbuser2"
 
 [[Metrics]]
